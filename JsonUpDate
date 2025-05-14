@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "bin_url": "http://yourdomain.com/firmware.bin"
+  "bin_url": "https://github.com/JxTco/23pse/raw/refs/heads/main/1.11.bin"
 }
